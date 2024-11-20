@@ -1,8 +1,13 @@
-# React + Vite
+# Contador en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un contador básico hecho con **React** a modo de práctica para consolidar conceptos fundamentales como:
 
-Currently, two official plugins are available:
+- Manejo del estado con `useState`.
+- Manejo de eventos.
+- Componentes funcionales.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
+
+- Incrementar el contador.
+- Decrementar el contador.
+- Reiniciar el contador a su valor inicial.
